@@ -30,8 +30,8 @@ He realizado un caso de estudio sobre la film comission de Valencia Film Office,
 
 * **Análisis del diseño, usabilidad, accesibilidad y UX de la propuesta**: Una serie de análisis en distintos aspectos de la Experiencia de Usuario, utilizando una serie de herramientas que se listan a continuación por orden de uso:  
 
-  [Excel de la Checklist del diseño](Checklist_Diseño.xlsx)  
-  [Excel del Usability Review](Usability-review.xls)
+  Excel de la Checklist del diseño (Es necesario descargarlo: Checklist_Diseño.xlsx)  
+  Excel del Usability Review (Es necesario descargarlo: Usability-review.xls)
 
 * **Comparativa competitiva con Granada Filmin**: Una comparativa entre Valencia Film Office y Granada Filmin con el objetivo de obtener más información acerca de los film commission y determinar cual de ambos está mejor diseñado. Para ello se ha hecho uso de la siguiente herramienta:  
 
