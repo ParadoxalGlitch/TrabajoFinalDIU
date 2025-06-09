@@ -28,18 +28,18 @@ He realizado una descripción en portfolio sobre mi experiencia UX adquirida dur
 
 He realizado un caso de estudio sobre la film comission de Valencia Film Office, en el cual he realizado los siguientes apartados:
 
-* **Análisis del diseño, usabilidad, accesibilidad y UX de la propuesta**: Una serie de análisis en distintos aspectos de la Experiencia de Usuario, utilizando una serie de herramientas que se listan a continuación por orden de uso:
-  ![Excel de la Checklist del diseño](Checklist_Diseño.xlsx)
-  ![Excel del Usability Review](Usability-review.xls)
+* **Análisis del diseño, usabilidad, accesibilidad y UX de la propuesta**: Una serie de análisis en distintos aspectos de la Experiencia de Usuario, utilizando una serie de herramientas que se listan a continuación por orden de uso:  
+  [Excel de la Checklist del diseño](Checklist_Diseño.xlsx)  
+  [Excel del Usability Review](Usability-review.xls)
 
-* **Comparativa competitiva con Granada Filmin**: Una comparativa entre Valencia Film Office y Granada Filmin con el objetivo de obtener más información acerca de los film commission y determinar cual de ambos está mejor diseñado. Para ello se ha hecho uso de la siguiente herramienta:
+* **Comparativa competitiva con Granada Filmin**: Una comparativa entre Valencia Film Office y Granada Filmin con el objetivo de obtener más información acerca de los film commission y determinar cual de ambos está mejor diseñado. Para ello se ha hecho uso de la siguiente herramienta:  
 
-  ![PDF del Competitor Analysis](Competitor_Analysis.pdf)
+  [PDF del Competitor Analysis](Competitor_Analysis.pdf)
 
-* **Propuesta de valor**: Propuesta en la que se plantea un rediseño de la página web de Valencia Film Office a través de todo lo obtenido en el proceso de análisis y estudio de campo, para el cual se han realizado los siguientes documentos:
+* **Propuesta de valor**: Propuesta en la que se plantea un rediseño de la página web de Valencia Film Office a través de todo lo obtenido en el proceso de análisis y estudio de campo, para el cual se han realizado los siguientes documentos:  
 
-  ![PDF del Scope Canvas](ScopeCanvas.pdf)
-  ![PDF del Wireframe](Wireframe.pdf)
+  [PDF del Scope Canvas](ScopeCanvas.pdf)  
+  [PDF del Wireframe](Wireframe.pdf)
 
 ----- 
 
