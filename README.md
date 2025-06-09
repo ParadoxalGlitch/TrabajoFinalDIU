@@ -29,6 +29,7 @@ He realizado una descripción en portfolio sobre mi experiencia UX adquirida dur
 He realizado un caso de estudio sobre la film comission de Valencia Film Office, en el cual he realizado los siguientes apartados:
 
 * **Análisis del diseño, usabilidad, accesibilidad y UX de la propuesta**: Una serie de análisis en distintos aspectos de la Experiencia de Usuario, utilizando una serie de herramientas que se listan a continuación por orden de uso:  
+
   [Excel de la Checklist del diseño](Checklist_Diseño.xlsx)  
   [Excel del Usability Review](Usability-review.xls)
 
