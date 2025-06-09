@@ -5,10 +5,6 @@ Realizado por: :bust_in_silhouette: [ David Pérez Tobarra](https://github.com/P
 
 
 
-
-
-Descripción: 
-
 Este repositorio contiene mi trabajo final de la asignatura de Diseño de Interfaces de Usuario, donde he realizado lo siguiente:
 
 
